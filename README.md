@@ -6,7 +6,7 @@ It also allows us to change the background color of our activiy using a Switch. 
 
 This applocation has 2 activities (screens). The first activity has a button names 'Next Activity' which allows us to goto the next Activity. The 2nd activity called 'ImageView' has an ImageView Control which shows an Image and it also has a button which takes us to the previous activity.
 
-# Andriod Platform Verion Supported
+# Andriod Platform Version Supported
 Mininum SDK Version: 16
 Target SDK Version: 30
 
